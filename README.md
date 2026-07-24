@@ -69,7 +69,7 @@ CLI_Assignment_2/
 
 ## Software Used
 
-- Ubuntu (WSL)
+- Google Cloud Shell
 - GCC Compiler
 - Bash Shell
 - GNU/Linux Commands
